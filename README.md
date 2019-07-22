@@ -6,7 +6,7 @@ This is a production level 'Hello World' console application. It used MAVEN repo
 You need to clone the repository and run the 'AutoBuildTest.bat' executable file, it runs the application automatically on the console. 
 
 ```
-git clone '----'
+git clone 'git@github.com:singal59/HelloWorld.git'
 ```
 
 Alternatively you can navigate to the directory from the command prompt and run AutoBuildTest.bat and the application runs.
